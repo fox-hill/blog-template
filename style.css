@@ -22,7 +22,7 @@
 
   a {
     color: black;
-    text-decoration: underline wavy var(--blue);
+    text-decoration: underline var(--blue);
   }
 
   h1,
